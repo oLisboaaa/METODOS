@@ -14,7 +14,7 @@ class Minutos {
         int horas = minutos / 60;
         int min = minutos % 60;
 
-        String horaFormat = String.format(horas+":"+min);
+        String horaFormat = String.format(horas + ":" + min);
         return horaFormat;
     }
 

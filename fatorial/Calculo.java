@@ -3,7 +3,7 @@ package fatorial;
 // Define a classe Fatorial
 class Fatorial {
     private double n1;
-    
+
     // Construtor da classe para definir os atributos da classe
     public Fatorial(double n1) {
         this.n1 = n1;

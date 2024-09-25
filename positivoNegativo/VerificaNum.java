@@ -30,7 +30,8 @@ public class VerificaNum {
         // Cria um objeto da classe
         PosNeg posNeg = new PosNeg(n1);
 
-        // Chama o método verificaPosNeg para determinar se o número é positivo ou negativo
+        // Chama o método verificaPosNeg para determinar se o número é positivo ou
+        // negativo
         String resultado = posNeg.verificaPosNeg();
 
         System.out.println("O número " + n1 + " é " + resultado);
